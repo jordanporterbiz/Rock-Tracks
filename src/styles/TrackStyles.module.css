@@ -1,0 +1,32 @@
+
+.trackCard {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+}
+
+.trackCard:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+
+}
+
+.track {
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    background-color: #ccc;
+}
+
+.track li { 
+    margin: 10px 25px;
+}
+
+.tracklistContainer {
+    width: 70vw;
+    margin: 50px auto; 
+
+  
+}
+
+.trackDetailsBtn {
+    margin-bottom: 0.9rem;
+}

@@ -1,0 +1,15 @@
+
+// Track List Success || Failure
+// export const FETCH_TRACKS_SUCCESS = 'FETCH_TRACKS_SUCCESS'
+// export const FETCH_TRACKS_FAILURE = 'FETCH_TRACKS_FAILURE'
+
+// Track Details Success || Failure
+// export const FETCH_TRACK_DETAILS_SUCCESS = 'FETCH_TRACK_DETAILS_SUCCESS'
+// export const FETCH_TRACK_DETAILS_FAILURE = 'FETCH_TRACK_DETAILS_FAILURE'
+
+// Track list/details Requests 
+export const FETCH_TRACKLIST_REQUEST = 'FETCH_TRACKLIST_REQUEST'
+export const FETCH_TRACK_DETAILS_REQUEST = 'FETCH_TRACK_DETAILS_REQUEST'
+export const SET_TRACKLIST = 'SET_TRACKLIST'
+
+
