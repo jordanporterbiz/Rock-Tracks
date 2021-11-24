@@ -16,7 +16,7 @@ export default function TrackList() {
         useEffect(() => {
             fetchData();
 
-        },[])
+        })
 
     const dispatch = useDispatch();
 

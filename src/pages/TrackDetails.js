@@ -1,4 +1,5 @@
 import { useSelector } from 'react-redux';
+import Moment from 'react-moment';
 
 
 export default function TrackDetails() {
@@ -29,7 +30,7 @@ export default function TrackDetails() {
             <h4>Artist: </h4> <p>{singleTrack.artist}</p>
             <h4>Track Price: </h4> <p>{singleTrack.trackPrice}</p>
             <h4>Duration: </h4> <p>{duration}</p>
-            <h4>Release Date: </h4> <p>{singleTrack.releaseDate}</p>
+            <h4>Release Date: </h4> <p><Moment format='DD/MM/YYYY'>{singleTrack.releaseDate}</Moment></p>
 
             <button>
                 <a href={singleTrack.trackViewUrl} target='_blank' rel='noreferrer'>

@@ -23,7 +23,7 @@ const reducer = (state = initialState, action) => {
             const tracks = state.tracks;
             const id = action.payload
             const filterTrack = (tracks) => {
-                return tracks.trackId == id
+                return tracks.trackId.toString() === id
             }
             const filteredTrack = tracks.filter((filterTrack));
             return {
