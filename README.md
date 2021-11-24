@@ -58,6 +58,18 @@ In a real-world scenario, the project would be set up in the following way:
 
 ---
 
+### Connect with me:
+
+[<img align="left" alt="BlackPhoenixSolutions.co.uk" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Jordan Porter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Jordan Porter | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Jordan Porter | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+<br />
+
+---
+
 [website]: https://blackphoenixsolutions.co.uk
 [instagram]: https://www.instagram.com/jordansjourneythroughlife
 [linkedin]: https://www.linkedin.com/in/creatingthefuture
